@@ -2,8 +2,8 @@
 A HND Computing graduate interested in a career in QA/QC. 
 
 ## About Me 
-I am a highly motivated HND Computing graduate with a proven ability to work in an organised and independent manner while communicating effectively within a team. I am capable of learning new skills quickly, understanding how to apply skills to new problems, and thrive in approaching challenges in a proactive and methodical way.
-<br><br>After transitioning to study computing, I have been exploring my interest in QA/QC and building my knowledge, skills, and experience of testing techniques. I am familiar with manual testing techniques, agile testing methods, and test design and bug reporting software including Jira, Trello and Xray.  
+I am a highly motivated HND Computing graduate with a proven ability to work in an organised and independent manner while communicating effectively within a team. After transitioning to study computing, I have been exploring my interest in QA/QC and building my knowledge, skills, and experience of functional testing. 
+I am capable of learning new skills quickly, understanding how to apply skills to new problems, and thrive in approaching challenges in a proactive and methodical way.
 
 ## Education
 ### HND Computing 
